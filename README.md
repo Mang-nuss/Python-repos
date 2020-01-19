@@ -7,8 +7,11 @@ A small directory of Python exercise files. So far, it includes:
   the following:
   
   16,3,2,13,
+  
   5,10,11,8,
+  
   9,6,7,12,
+  
   4,15,14,1
   
   is magic, for n = 4. If you switch e.g. the numbers 2 <-> 3, the two middle columns are flawed.
